@@ -1,1 +1,1 @@
-Hello world notes can be found here.
+Hello world notes can be found here. This is an example.
